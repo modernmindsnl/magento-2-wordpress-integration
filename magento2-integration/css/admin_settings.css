@@ -1,0 +1,31 @@
+.m2i_status_check{
+    width: 25px;
+    height: 25px;
+    margin-left: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.tooltip {
+    display: inline-block;
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.options-panel, .banner-block{
+    float:left;
+    display:block;
+}
+.options-panel{
+    width:80%;
+}
+.banner-block{
+    width:20%;
+}
+.banner-block img{
+    max-width:100%;
+}
+.clearfix{
+    clear:both;
+}
